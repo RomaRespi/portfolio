@@ -1,16 +1,26 @@
 {
-	"title" : "Experience",
-	"experience" : [
+	"title" : "Opleiding",
+	"ervaring" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "September 2009 - Juni 2015",
+			"company" : "Regina Caeli",
+			"website": "https://reginacaeli.be/",
+			"description" : "Afstudeerrichting: Humane Wetenschappen"
 		},
+
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "September 2016 - Juni 2020",
+			"company" : "Erasmushogeschool Brussel",
+			"website": "https://www.erasmushogeschool.be/nl/opleidingen/voedings-dieetkunde",
+			"description" : "Bachelor Voedings- en Dieetkunde"
+		},
+
+		{
+			"timeperiod" : "September 2020 - heden",
+			"company" : "HOGent",
+			"website": "https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica/",
+			"description" : "Bachelor Toegepaste Informatica, afstudeerrichting: Systeem- en Netwerkbeheer"
 		}
+
 	]
 }
