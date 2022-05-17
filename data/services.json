@@ -1,15 +1,15 @@
 {
-	"title" : "Services",
+	"title" : "Projecten",
 	"services" : [
 		{
 			"icon" : "",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"title" : "System Engeneering Lab",
+			"description" : "Ubuntu Server - Azure - AWS - Cisco Packet Tracer"
 		},
 		{
 			"icon" : "",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"title" : "System Engeneering Project",
+			"description" : "Virutele LAN opzetten"
 		}
 	]
 }
