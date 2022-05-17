@@ -2,12 +2,6 @@
 	"title" : "Opleiding",
 	"ervaring" : [
 		{
-			"timeperiod" : "September 2009 - Juni 2015",
-			"company" : "Regina Caeli",
-			"website": "https://reginacaeli.be/",
-			"description" : "Afstudeerrichting: Humane Wetenschappen"
-		},
-		{
 			"timeperiod" : "September 2016 - Juni 2020",
 			"company" : "Erasmushogeschool Brussel",
 			"website": "https://www.erasmushogeschool.be/nl/opleidingen/voedings-dieetkunde",
