@@ -1,10 +1,10 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Sketch" : "90",
-		"Adobe XD" : "1",
-		"Illustrator" : "65",
-		"Tateren" : "97",
-		"Computer": "17"
+		"SQL" : "70",
+		"HTML + CSS" : "80",
+		"Windows Server & Powershell (learning)" : "30",
+		"Linux (learning)" : "15",
+		"Cybersecurity (learning)": "15"
 	}
 }
