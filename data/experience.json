@@ -1,5 +1,5 @@
 {
-	"title" : "Opleiding",
+	"title" : "Opleiding en ervaring",
 	"experience" : [
 		{
 			"timeperiod" : "September 2009 - Juni 2015",
@@ -18,7 +18,38 @@
 			"company" : "HOGent",
 			"website": "https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica/",
 			"description" : "Bachelor Toegepaste Informatica, afstudeerrichting: Systeem- en Netwerkbeheer"
+		},
+		{
+			"timeperiod" : "September 2009 - Juni 2015",
+			"company" : "Regina Caeli",
+			"website": "https://www.reginacaeli.be",
+			"description" : "Afstudeerrichting: Humane Wetenschappen"
+		},
+		{
+			"timeperiod" : "September 2009 - Juni 2015",
+			"company" : "Regina Caeli",
+			"website": "https://www.reginacaeli.be",
+			"description" : "Afstudeerrichting: Humane Wetenschappen"
+		},
+		{
+			"timeperiod" : "September 2009 - Juni 2015",
+			"company" : "Regina Caeli",
+			"website": "https://www.reginacaeli.be",
+			"description" : "Afstudeerrichting: Humane Wetenschappen"
+		},
+		{
+			"timeperiod" : "September 2009 - Juni 2015",
+			"company" : "Regina Caeli",
+			"website": "https://www.reginacaeli.be",
+			"description" : "Afstudeerrichting: Humane Wetenschappen"
+		},
+		{
+			"timeperiod" : "September 2009 - Juni 2015",
+			"company" : "Regina Caeli",
+			"website": "https://www.reginacaeli.be",
+			"description" : "Afstudeerrichting: Humane Wetenschappen"
 		}
-
 	]
+
 }
+
