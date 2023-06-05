@@ -4,8 +4,8 @@ weight: 3
 header_menu: true
 ---
 
-##### Professionel Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Mijn naam is Roma Respilieux. Ik ben een laatstejaarsstudent Toegepaste Informatica met een passie voor IT. In het bijzonder heb ik interesse voor software & business analyse, netwerken en cybersecurity. Ik probeer naast mijn studie op de hoogte te blijven van deze topics. Ik vond deze opleidingsonderdelen altijd enorm interessant en hoop hier mee aan de slag te kunnan na mijn studie.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Wat mijn hobby's betreft: ik ben graag creatief bezig. In mijn vrije tijd teken en schilder ik graag, daarnaast haak ik ook regelmatig. Ik werk graag in de tuin, als het mooi weer is vind ik het zalig om samen met mijn vriend op het terras te zitten en te genieten van de bloemenpracht! Daarnaast ga ik ook regelmatig naar concerten en vind het heerlijk om te genieten van live muziek. 
+
