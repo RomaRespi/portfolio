@@ -3,4 +3,4 @@ title: "Welcome"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Welkom op mijn E-portfolio! Hier vind je mijn ervaringen die ik heb opgedaan tijdens mijn bachelor Toegepaste Informatica en tijdens mijn vrije tijd, zowel voor als tijdens mijn studie! Dit E-portfolio werd gemaakt in het kader van de opleidingsonderdelen The IT Professional & The IT Professional & Career Orientation.
